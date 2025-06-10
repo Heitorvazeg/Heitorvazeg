@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Heitor Vaz
+I am a Full-Stack Developer and a Software Engineering student at the Federal University of Goiás. I have hands-on experience in web application development, with a strong focus on solving complex problems and building scalable solutions. My background includes participation in Hackathons and Programming Competitions, which sparked my interest in algorithms, optimization, and software engineering best practices.
 
+
+📚 I'm currently learning
+- Deepening my knowledge of **React.js**, focusing on advanced concepts such as hooks, performance optimization, and modern frontend architecture.
+- Exploring **Go (Golang)** for building efficient, scalable backend systems and learning best practices for API development.
+- Starting to study **Cybersecurity**, with an emphasis on application security and securing network infrastructures.
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heitorvazeg&layout=compact&langs_count=8&theme=tokyonight)
 <!--
 **Heitorvazeg/Heitorvazeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
