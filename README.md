@@ -35,8 +35,6 @@ I am a Full-Stack Developer and a Software Engineering student at the Federal Un
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Heitorvazeg)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/HeitorVaz/)
 
-💡 Dicas:
-
 <!--
 **Heitorvazeg/Heitorvazeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
