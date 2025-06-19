@@ -21,7 +21,22 @@ I am a Full-Stack Developer and a Software Engineering student at the Federal Un
 
 
 ---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heitorvazeg&layout=compact&langs_count=8&theme=tokyonight)
+
+---
+
+📫 Contact
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-vaz/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:heitorvazeg@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Heitorvazeg)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/HeitorVaz/)
+
+💡 Dicas:
+
 <!--
 **Heitorvazeg/Heitorvazeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
