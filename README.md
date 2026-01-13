@@ -49,7 +49,7 @@ I believe in computing as a **tool for social transformation** and aim to create
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=heitorvazeg&layout=compact&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heitorvazeg&theme=tokyonight)
 
 ---
 
